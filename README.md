@@ -1,6 +1,6 @@
 # Doctor_Appointment_System
 
-# Built a web back-end API's for Doctor Appointment system that supports the following : 
+# Built web back-end API's for Doctor Appointment system that supports the following : 
 * Get a list of all doctors
 * Get a list of all appointments for a particular doctor and particular day
 * Delete an existing appointment from a doctor's calendar
