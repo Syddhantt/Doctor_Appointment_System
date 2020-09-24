@@ -13,6 +13,6 @@
       
 # Doctors have a unique ID, a first name, and a last name. 
 
-# Appointments have a unique ID,patient first name, patient last name, date & time, and kind (New Patient or Follow-up). 
+# Appointments have a unique ID, patient first name, patient last name, date & time, and kind (New Patient or Follow-up). 
 
 # The backend responds to HTTP requests (ie GET, POST, DELETE).
