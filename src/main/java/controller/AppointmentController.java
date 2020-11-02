@@ -20,6 +20,7 @@ public class AppointmentController {
 
     private AppointmentService appointmentService;
 
+    @Autowired
     public AppointmentController(final AppointmentService appointmentService) {
         this.appointmentService = appointmentService;
     }
