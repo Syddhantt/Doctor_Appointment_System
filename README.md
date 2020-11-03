@@ -1,6 +1,6 @@
 # Doctor_Appointment_System 
 
-# Technologies : Java8, Spring-Boot, JPA.
+# Technologies : Java8, Spring-Boot, JPA
 
 # Built web back-end API's for Doctor Appointment system that supports the following : 
 * Get a list of all doctors
